@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/halxp/Desktop/test10/FileCommpass.cpp
+FileCommpass.h
+/Users/halxp/Desktop/test10/FileCommpass.h
+
+/Users/halxp/Desktop/test10/FileCommpass.h
+HuffmanTree.h
+/Users/halxp/Desktop/test10/HuffmanTree.h
+
+/Users/halxp/Desktop/test10/Heap.h
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+
+/Users/halxp/Desktop/test10/HuffmanTree.h
+Heap.h
+/Users/halxp/Desktop/test10/Heap.h
+
+/Users/halxp/Desktop/test10/main.cpp
+iostream
+-
+FileCommpass.h
+/Users/halxp/Desktop/test10/FileCommpass.h
+
